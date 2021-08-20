@@ -3,8 +3,8 @@
 ## Logistic Regression
 
 
-   Logistic Regression is used for Binary Classification.
-   it is the Probabality of categorical dependent variable.
+  \n Logistic Regression is used for Binary Classification.
+  \n it is the Probabality of categorical dependent variable.
    Logistic Function is use in it for Classification. 
    Logistic Function is also known as sigmoid or S shaped Function .
    logistic function = 1 / 1+e power -x .
