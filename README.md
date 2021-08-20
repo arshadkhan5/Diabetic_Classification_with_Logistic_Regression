@@ -1,5 +1,7 @@
 # Diabetic_Classification_with_Logistic_Regression
-##**Logistic Regression** 
+##Logistic Regression
+
+
    Logistic Regression is used for Binary Classification 
    it is the Probabality of categorical dependent variable
    Logistic Function is use in it for Classification 
