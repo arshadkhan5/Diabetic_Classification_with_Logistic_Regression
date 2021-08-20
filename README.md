@@ -1,5 +1,6 @@
 # Diabetic_Classification_with_Logistic_Regression
-##Logistic Regression
+
+## Logistic Regression
 
 
    Logistic Regression is used for Binary Classification 
